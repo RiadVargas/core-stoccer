@@ -13,7 +13,7 @@ A more detailed White Paper will be published shortly.
 ###### Team
 The project is being made by me, **Tiago Simões**, but others may join along the way :)
 
-- [Tiago Simes](https://github.com/tloriato) (*Co-Founder and CTO* ) 
+- [Tiago Simões](https://github.com/tloriato) (*Co-Founder and CTO*)
 - ??
 - ??
 
